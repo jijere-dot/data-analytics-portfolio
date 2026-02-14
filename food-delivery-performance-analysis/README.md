@@ -29,4 +29,4 @@ This analysis explores:
 - Focus on high-variance cuisine types to reduce delays.
 
 ##  Files Included
-- `food-delivery-performance-analysis.ipynb` – Full exploratory data analysis notebook.
+- `delivery-analysis.ipynb` – Full exploratory data analysis notebook.
